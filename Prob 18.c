@@ -1,4 +1,4 @@
-/*/*Write a C program for printing the following pattern :
+/*Write a C program for printing the following pattern :
 Input: 5
 Output:
 123456789
@@ -35,6 +35,4 @@ int main()
     }
 
     return 0;
-}
-    return 0; 
 }
