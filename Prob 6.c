@@ -11,9 +11,7 @@ int main() {
             printf("1");
             sum+=1;
         }else{
-            int a=i;
-            int b=2*i;
-            int c=3*i;
+            int a=i,b=2*i,c=3*i;
             int d= a*b*c;
             printf(" + %d*%d*%d",a,b,c);
             sum+=d;
